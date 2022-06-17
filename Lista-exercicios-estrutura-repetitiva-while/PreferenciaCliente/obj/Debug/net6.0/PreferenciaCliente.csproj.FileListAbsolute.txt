@@ -1,0 +1,15 @@
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\PreferenciaCliente\bin\Debug\net6.0\PreferenciaCliente.exe
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\PreferenciaCliente\bin\Debug\net6.0\PreferenciaCliente.deps.json
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\PreferenciaCliente\bin\Debug\net6.0\PreferenciaCliente.runtimeconfig.json
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\PreferenciaCliente\bin\Debug\net6.0\PreferenciaCliente.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\PreferenciaCliente\bin\Debug\net6.0\PreferenciaCliente.pdb
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\PreferenciaCliente\obj\Debug\net6.0\PreferenciaCliente.csproj.AssemblyReference.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\PreferenciaCliente\obj\Debug\net6.0\PreferenciaCliente.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\PreferenciaCliente\obj\Debug\net6.0\PreferenciaCliente.AssemblyInfoInputs.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\PreferenciaCliente\obj\Debug\net6.0\PreferenciaCliente.AssemblyInfo.cs
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\PreferenciaCliente\obj\Debug\net6.0\PreferenciaCliente.csproj.CoreCompileInputs.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\PreferenciaCliente\obj\Debug\net6.0\PreferenciaCliente.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\PreferenciaCliente\obj\Debug\net6.0\refint\PreferenciaCliente.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\PreferenciaCliente\obj\Debug\net6.0\PreferenciaCliente.pdb
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\PreferenciaCliente\obj\Debug\net6.0\PreferenciaCliente.genruntimeconfig.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\PreferenciaCliente\obj\Debug\net6.0\ref\PreferenciaCliente.dll

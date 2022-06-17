@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuatroValores", "QuatroValores.csproj", "{429243A5-1C07-418D-82F6-44FEAE99967B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{429243A5-1C07-418D-82F6-44FEAE99967B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{429243A5-1C07-418D-82F6-44FEAE99967B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{429243A5-1C07-418D-82F6-44FEAE99967B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{429243A5-1C07-418D-82F6-44FEAE99967B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80B16EFC-D151-4A36-807D-742C39B9C822}
+	EndGlobalSection
+EndGlobal

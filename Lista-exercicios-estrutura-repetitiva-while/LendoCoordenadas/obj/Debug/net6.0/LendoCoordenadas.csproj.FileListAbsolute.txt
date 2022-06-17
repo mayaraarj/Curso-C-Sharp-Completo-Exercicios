@@ -1,0 +1,15 @@
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\LendoCoordenadas\bin\Debug\net6.0\LendoCoordenadas.exe
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\LendoCoordenadas\bin\Debug\net6.0\LendoCoordenadas.deps.json
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\LendoCoordenadas\bin\Debug\net6.0\LendoCoordenadas.runtimeconfig.json
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\LendoCoordenadas\bin\Debug\net6.0\LendoCoordenadas.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\LendoCoordenadas\bin\Debug\net6.0\LendoCoordenadas.pdb
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\LendoCoordenadas\obj\Debug\net6.0\LendoCoordenadas.csproj.AssemblyReference.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\LendoCoordenadas\obj\Debug\net6.0\LendoCoordenadas.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\LendoCoordenadas\obj\Debug\net6.0\LendoCoordenadas.AssemblyInfoInputs.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\LendoCoordenadas\obj\Debug\net6.0\LendoCoordenadas.AssemblyInfo.cs
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\LendoCoordenadas\obj\Debug\net6.0\LendoCoordenadas.csproj.CoreCompileInputs.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\LendoCoordenadas\obj\Debug\net6.0\LendoCoordenadas.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\LendoCoordenadas\obj\Debug\net6.0\refint\LendoCoordenadas.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\LendoCoordenadas\obj\Debug\net6.0\LendoCoordenadas.pdb
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\LendoCoordenadas\obj\Debug\net6.0\LendoCoordenadas.genruntimeconfig.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\LendoCoordenadas\obj\Debug\net6.0\ref\LendoCoordenadas.dll

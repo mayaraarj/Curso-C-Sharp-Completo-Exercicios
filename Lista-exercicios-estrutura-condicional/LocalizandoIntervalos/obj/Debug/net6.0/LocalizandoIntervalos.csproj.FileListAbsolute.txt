@@ -1,0 +1,15 @@
+D:\repos\Lista-exercicios-estrutura-condicional\LocalizandoIntervalos\bin\Debug\net6.0\LocalizandoIntervalos.exe
+D:\repos\Lista-exercicios-estrutura-condicional\LocalizandoIntervalos\bin\Debug\net6.0\LocalizandoIntervalos.deps.json
+D:\repos\Lista-exercicios-estrutura-condicional\LocalizandoIntervalos\bin\Debug\net6.0\LocalizandoIntervalos.runtimeconfig.json
+D:\repos\Lista-exercicios-estrutura-condicional\LocalizandoIntervalos\bin\Debug\net6.0\LocalizandoIntervalos.dll
+D:\repos\Lista-exercicios-estrutura-condicional\LocalizandoIntervalos\bin\Debug\net6.0\LocalizandoIntervalos.pdb
+D:\repos\Lista-exercicios-estrutura-condicional\LocalizandoIntervalos\obj\Debug\net6.0\LocalizandoIntervalos.csproj.AssemblyReference.cache
+D:\repos\Lista-exercicios-estrutura-condicional\LocalizandoIntervalos\obj\Debug\net6.0\LocalizandoIntervalos.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Lista-exercicios-estrutura-condicional\LocalizandoIntervalos\obj\Debug\net6.0\LocalizandoIntervalos.AssemblyInfoInputs.cache
+D:\repos\Lista-exercicios-estrutura-condicional\LocalizandoIntervalos\obj\Debug\net6.0\LocalizandoIntervalos.AssemblyInfo.cs
+D:\repos\Lista-exercicios-estrutura-condicional\LocalizandoIntervalos\obj\Debug\net6.0\LocalizandoIntervalos.csproj.CoreCompileInputs.cache
+D:\repos\Lista-exercicios-estrutura-condicional\LocalizandoIntervalos\obj\Debug\net6.0\LocalizandoIntervalos.dll
+D:\repos\Lista-exercicios-estrutura-condicional\LocalizandoIntervalos\obj\Debug\net6.0\refint\LocalizandoIntervalos.dll
+D:\repos\Lista-exercicios-estrutura-condicional\LocalizandoIntervalos\obj\Debug\net6.0\LocalizandoIntervalos.pdb
+D:\repos\Lista-exercicios-estrutura-condicional\LocalizandoIntervalos\obj\Debug\net6.0\LocalizandoIntervalos.genruntimeconfig.cache
+D:\repos\Lista-exercicios-estrutura-condicional\LocalizandoIntervalos\obj\Debug\net6.0\ref\LocalizandoIntervalos.dll

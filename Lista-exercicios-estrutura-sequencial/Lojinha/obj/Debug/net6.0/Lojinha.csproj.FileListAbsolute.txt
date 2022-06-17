@@ -1,0 +1,15 @@
+D:\repos\Lista-exercicios-estrutura-sequencial\Lojinha\bin\Debug\net6.0\Lojinha.exe
+D:\repos\Lista-exercicios-estrutura-sequencial\Lojinha\bin\Debug\net6.0\Lojinha.deps.json
+D:\repos\Lista-exercicios-estrutura-sequencial\Lojinha\bin\Debug\net6.0\Lojinha.runtimeconfig.json
+D:\repos\Lista-exercicios-estrutura-sequencial\Lojinha\bin\Debug\net6.0\Lojinha.dll
+D:\repos\Lista-exercicios-estrutura-sequencial\Lojinha\bin\Debug\net6.0\Lojinha.pdb
+D:\repos\Lista-exercicios-estrutura-sequencial\Lojinha\obj\Debug\net6.0\Lojinha.csproj.AssemblyReference.cache
+D:\repos\Lista-exercicios-estrutura-sequencial\Lojinha\obj\Debug\net6.0\Lojinha.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Lista-exercicios-estrutura-sequencial\Lojinha\obj\Debug\net6.0\Lojinha.AssemblyInfoInputs.cache
+D:\repos\Lista-exercicios-estrutura-sequencial\Lojinha\obj\Debug\net6.0\Lojinha.AssemblyInfo.cs
+D:\repos\Lista-exercicios-estrutura-sequencial\Lojinha\obj\Debug\net6.0\Lojinha.csproj.CoreCompileInputs.cache
+D:\repos\Lista-exercicios-estrutura-sequencial\Lojinha\obj\Debug\net6.0\Lojinha.dll
+D:\repos\Lista-exercicios-estrutura-sequencial\Lojinha\obj\Debug\net6.0\refint\Lojinha.dll
+D:\repos\Lista-exercicios-estrutura-sequencial\Lojinha\obj\Debug\net6.0\Lojinha.pdb
+D:\repos\Lista-exercicios-estrutura-sequencial\Lojinha\obj\Debug\net6.0\Lojinha.genruntimeconfig.cache
+D:\repos\Lista-exercicios-estrutura-sequencial\Lojinha\obj\Debug\net6.0\ref\Lojinha.dll

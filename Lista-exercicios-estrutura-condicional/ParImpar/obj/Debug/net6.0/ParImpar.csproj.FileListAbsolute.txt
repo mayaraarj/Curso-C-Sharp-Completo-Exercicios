@@ -1,0 +1,15 @@
+D:\repos\Lista-exercicios-estrutura-condicional\ParImpar\bin\Debug\net6.0\ParImpar.exe
+D:\repos\Lista-exercicios-estrutura-condicional\ParImpar\bin\Debug\net6.0\ParImpar.deps.json
+D:\repos\Lista-exercicios-estrutura-condicional\ParImpar\bin\Debug\net6.0\ParImpar.runtimeconfig.json
+D:\repos\Lista-exercicios-estrutura-condicional\ParImpar\bin\Debug\net6.0\ParImpar.dll
+D:\repos\Lista-exercicios-estrutura-condicional\ParImpar\bin\Debug\net6.0\ParImpar.pdb
+D:\repos\Lista-exercicios-estrutura-condicional\ParImpar\obj\Debug\net6.0\ParImpar.csproj.AssemblyReference.cache
+D:\repos\Lista-exercicios-estrutura-condicional\ParImpar\obj\Debug\net6.0\ParImpar.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Lista-exercicios-estrutura-condicional\ParImpar\obj\Debug\net6.0\ParImpar.AssemblyInfoInputs.cache
+D:\repos\Lista-exercicios-estrutura-condicional\ParImpar\obj\Debug\net6.0\ParImpar.AssemblyInfo.cs
+D:\repos\Lista-exercicios-estrutura-condicional\ParImpar\obj\Debug\net6.0\ParImpar.csproj.CoreCompileInputs.cache
+D:\repos\Lista-exercicios-estrutura-condicional\ParImpar\obj\Debug\net6.0\ParImpar.dll
+D:\repos\Lista-exercicios-estrutura-condicional\ParImpar\obj\Debug\net6.0\refint\ParImpar.dll
+D:\repos\Lista-exercicios-estrutura-condicional\ParImpar\obj\Debug\net6.0\ParImpar.pdb
+D:\repos\Lista-exercicios-estrutura-condicional\ParImpar\obj\Debug\net6.0\ParImpar.genruntimeconfig.cache
+D:\repos\Lista-exercicios-estrutura-condicional\ParImpar\obj\Debug\net6.0\ref\ParImpar.dll

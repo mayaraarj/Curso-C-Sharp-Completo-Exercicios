@@ -1,0 +1,5 @@
+D:\repos\Lista-exercicios-estrutura-sequencial\Triangulos\obj\Debug\net6.0\Triangulos.csproj.AssemblyReference.cache
+D:\repos\Lista-exercicios-estrutura-sequencial\Triangulos\obj\Debug\net6.0\Triangulos.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Lista-exercicios-estrutura-sequencial\Triangulos\obj\Debug\net6.0\Triangulos.AssemblyInfoInputs.cache
+D:\repos\Lista-exercicios-estrutura-sequencial\Triangulos\obj\Debug\net6.0\Triangulos.AssemblyInfo.cs
+D:\repos\Lista-exercicios-estrutura-sequencial\Triangulos\obj\Debug\net6.0\Triangulos.csproj.CoreCompileInputs.cache

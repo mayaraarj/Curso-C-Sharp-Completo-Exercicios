@@ -1,0 +1,15 @@
+D:\repos\Lista-exercicios-estrutura-condicional\Coordenadas\bin\Debug\net6.0\Coordenadas.exe
+D:\repos\Lista-exercicios-estrutura-condicional\Coordenadas\bin\Debug\net6.0\Coordenadas.deps.json
+D:\repos\Lista-exercicios-estrutura-condicional\Coordenadas\bin\Debug\net6.0\Coordenadas.runtimeconfig.json
+D:\repos\Lista-exercicios-estrutura-condicional\Coordenadas\bin\Debug\net6.0\Coordenadas.dll
+D:\repos\Lista-exercicios-estrutura-condicional\Coordenadas\bin\Debug\net6.0\Coordenadas.pdb
+D:\repos\Lista-exercicios-estrutura-condicional\Coordenadas\obj\Debug\net6.0\Coordenadas.csproj.AssemblyReference.cache
+D:\repos\Lista-exercicios-estrutura-condicional\Coordenadas\obj\Debug\net6.0\Coordenadas.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Lista-exercicios-estrutura-condicional\Coordenadas\obj\Debug\net6.0\Coordenadas.AssemblyInfoInputs.cache
+D:\repos\Lista-exercicios-estrutura-condicional\Coordenadas\obj\Debug\net6.0\Coordenadas.AssemblyInfo.cs
+D:\repos\Lista-exercicios-estrutura-condicional\Coordenadas\obj\Debug\net6.0\Coordenadas.csproj.CoreCompileInputs.cache
+D:\repos\Lista-exercicios-estrutura-condicional\Coordenadas\obj\Debug\net6.0\Coordenadas.dll
+D:\repos\Lista-exercicios-estrutura-condicional\Coordenadas\obj\Debug\net6.0\refint\Coordenadas.dll
+D:\repos\Lista-exercicios-estrutura-condicional\Coordenadas\obj\Debug\net6.0\Coordenadas.pdb
+D:\repos\Lista-exercicios-estrutura-condicional\Coordenadas\obj\Debug\net6.0\Coordenadas.genruntimeconfig.cache
+D:\repos\Lista-exercicios-estrutura-condicional\Coordenadas\obj\Debug\net6.0\ref\Coordenadas.dll

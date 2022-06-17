@@ -1,0 +1,15 @@
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\bin\Debug\net6.0\Lista-exercicios-estrutura-sequencial.exe
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\bin\Debug\net6.0\Lista-exercicios-estrutura-sequencial.deps.json
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\bin\Debug\net6.0\Lista-exercicios-estrutura-sequencial.runtimeconfig.json
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\bin\Debug\net6.0\Lista-exercicios-estrutura-sequencial.dll
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\bin\Debug\net6.0\Lista-exercicios-estrutura-sequencial.pdb
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\obj\Debug\net6.0\Lista-exercicios-estrutura-sequencial.csproj.AssemblyReference.cache
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\obj\Debug\net6.0\Lista-exercicios-estrutura-sequencial.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\obj\Debug\net6.0\Lista-exercicios-estrutura-sequencial.AssemblyInfoInputs.cache
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\obj\Debug\net6.0\Lista-exercicios-estrutura-sequencial.AssemblyInfo.cs
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\obj\Debug\net6.0\Lista-exercicios-estrutura-sequencial.csproj.CoreCompileInputs.cache
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\obj\Debug\net6.0\Lista-exercicios-estrutura-sequencial.dll
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\obj\Debug\net6.0\refint\Lista-exercicios-estrutura-sequencial.dll
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\obj\Debug\net6.0\Lista-exercicios-estrutura-sequencial.pdb
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\obj\Debug\net6.0\Lista-exercicios-estrutura-sequencial.genruntimeconfig.cache
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\obj\Debug\net6.0\ref\Lista-exercicios-estrutura-sequencial.dll

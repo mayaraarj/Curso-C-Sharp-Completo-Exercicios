@@ -1,0 +1,15 @@
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\TestandoSenhas\bin\Debug\net6.0\TestandoSenhas.exe
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\TestandoSenhas\bin\Debug\net6.0\TestandoSenhas.deps.json
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\TestandoSenhas\bin\Debug\net6.0\TestandoSenhas.runtimeconfig.json
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\TestandoSenhas\bin\Debug\net6.0\TestandoSenhas.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\TestandoSenhas\bin\Debug\net6.0\TestandoSenhas.pdb
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\TestandoSenhas\obj\Debug\net6.0\TestandoSenhas.csproj.AssemblyReference.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\TestandoSenhas\obj\Debug\net6.0\TestandoSenhas.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\TestandoSenhas\obj\Debug\net6.0\TestandoSenhas.AssemblyInfoInputs.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\TestandoSenhas\obj\Debug\net6.0\TestandoSenhas.AssemblyInfo.cs
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\TestandoSenhas\obj\Debug\net6.0\TestandoSenhas.csproj.CoreCompileInputs.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\TestandoSenhas\obj\Debug\net6.0\TestandoSenhas.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\TestandoSenhas\obj\Debug\net6.0\refint\TestandoSenhas.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\TestandoSenhas\obj\Debug\net6.0\TestandoSenhas.pdb
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\TestandoSenhas\obj\Debug\net6.0\TestandoSenhas.genruntimeconfig.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-while\TestandoSenhas\obj\Debug\net6.0\ref\TestandoSenhas.dll

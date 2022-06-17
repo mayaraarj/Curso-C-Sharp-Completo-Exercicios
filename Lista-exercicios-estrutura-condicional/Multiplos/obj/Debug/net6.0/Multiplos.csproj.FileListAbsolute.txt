@@ -1,0 +1,15 @@
+D:\repos\Lista-exercicios-estrutura-condicional\Multiplos\bin\Debug\net6.0\Multiplos.exe
+D:\repos\Lista-exercicios-estrutura-condicional\Multiplos\bin\Debug\net6.0\Multiplos.deps.json
+D:\repos\Lista-exercicios-estrutura-condicional\Multiplos\bin\Debug\net6.0\Multiplos.runtimeconfig.json
+D:\repos\Lista-exercicios-estrutura-condicional\Multiplos\bin\Debug\net6.0\Multiplos.dll
+D:\repos\Lista-exercicios-estrutura-condicional\Multiplos\bin\Debug\net6.0\Multiplos.pdb
+D:\repos\Lista-exercicios-estrutura-condicional\Multiplos\obj\Debug\net6.0\Multiplos.csproj.AssemblyReference.cache
+D:\repos\Lista-exercicios-estrutura-condicional\Multiplos\obj\Debug\net6.0\Multiplos.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Lista-exercicios-estrutura-condicional\Multiplos\obj\Debug\net6.0\Multiplos.AssemblyInfoInputs.cache
+D:\repos\Lista-exercicios-estrutura-condicional\Multiplos\obj\Debug\net6.0\Multiplos.AssemblyInfo.cs
+D:\repos\Lista-exercicios-estrutura-condicional\Multiplos\obj\Debug\net6.0\Multiplos.csproj.CoreCompileInputs.cache
+D:\repos\Lista-exercicios-estrutura-condicional\Multiplos\obj\Debug\net6.0\Multiplos.dll
+D:\repos\Lista-exercicios-estrutura-condicional\Multiplos\obj\Debug\net6.0\refint\Multiplos.dll
+D:\repos\Lista-exercicios-estrutura-condicional\Multiplos\obj\Debug\net6.0\Multiplos.pdb
+D:\repos\Lista-exercicios-estrutura-condicional\Multiplos\obj\Debug\net6.0\Multiplos.genruntimeconfig.cache
+D:\repos\Lista-exercicios-estrutura-condicional\Multiplos\obj\Debug\net6.0\ref\Multiplos.dll

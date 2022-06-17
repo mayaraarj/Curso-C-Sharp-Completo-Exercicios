@@ -1,0 +1,15 @@
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\LendoCirculos\LendoCirculos\bin\Debug\net6.0\LendoCirculos.exe
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\LendoCirculos\LendoCirculos\bin\Debug\net6.0\LendoCirculos.deps.json
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\LendoCirculos\LendoCirculos\bin\Debug\net6.0\LendoCirculos.runtimeconfig.json
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\LendoCirculos\LendoCirculos\bin\Debug\net6.0\LendoCirculos.dll
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\LendoCirculos\LendoCirculos\bin\Debug\net6.0\LendoCirculos.pdb
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\LendoCirculos\LendoCirculos\obj\Debug\net6.0\LendoCirculos.csproj.AssemblyReference.cache
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\LendoCirculos\LendoCirculos\obj\Debug\net6.0\LendoCirculos.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\LendoCirculos\LendoCirculos\obj\Debug\net6.0\LendoCirculos.AssemblyInfoInputs.cache
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\LendoCirculos\LendoCirculos\obj\Debug\net6.0\LendoCirculos.AssemblyInfo.cs
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\LendoCirculos\LendoCirculos\obj\Debug\net6.0\LendoCirculos.csproj.CoreCompileInputs.cache
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\LendoCirculos\LendoCirculos\obj\Debug\net6.0\LendoCirculos.dll
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\LendoCirculos\LendoCirculos\obj\Debug\net6.0\refint\LendoCirculos.dll
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\LendoCirculos\LendoCirculos\obj\Debug\net6.0\LendoCirculos.pdb
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\LendoCirculos\LendoCirculos\obj\Debug\net6.0\LendoCirculos.genruntimeconfig.cache
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\LendoCirculos\LendoCirculos\obj\Debug\net6.0\ref\LendoCirculos.dll

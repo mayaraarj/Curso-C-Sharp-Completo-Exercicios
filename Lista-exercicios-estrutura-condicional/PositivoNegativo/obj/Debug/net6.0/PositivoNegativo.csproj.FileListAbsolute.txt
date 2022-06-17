@@ -1,0 +1,15 @@
+D:\repos\PositivoNegativo\bin\Debug\net6.0\PositivoNegativo.exe
+D:\repos\PositivoNegativo\bin\Debug\net6.0\PositivoNegativo.deps.json
+D:\repos\PositivoNegativo\bin\Debug\net6.0\PositivoNegativo.runtimeconfig.json
+D:\repos\PositivoNegativo\bin\Debug\net6.0\PositivoNegativo.dll
+D:\repos\PositivoNegativo\bin\Debug\net6.0\PositivoNegativo.pdb
+D:\repos\PositivoNegativo\obj\Debug\net6.0\PositivoNegativo.csproj.AssemblyReference.cache
+D:\repos\PositivoNegativo\obj\Debug\net6.0\PositivoNegativo.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\PositivoNegativo\obj\Debug\net6.0\PositivoNegativo.AssemblyInfoInputs.cache
+D:\repos\PositivoNegativo\obj\Debug\net6.0\PositivoNegativo.AssemblyInfo.cs
+D:\repos\PositivoNegativo\obj\Debug\net6.0\PositivoNegativo.csproj.CoreCompileInputs.cache
+D:\repos\PositivoNegativo\obj\Debug\net6.0\PositivoNegativo.dll
+D:\repos\PositivoNegativo\obj\Debug\net6.0\refint\PositivoNegativo.dll
+D:\repos\PositivoNegativo\obj\Debug\net6.0\PositivoNegativo.pdb
+D:\repos\PositivoNegativo\obj\Debug\net6.0\PositivoNegativo.genruntimeconfig.cache
+D:\repos\PositivoNegativo\obj\Debug\net6.0\ref\PositivoNegativo.dll

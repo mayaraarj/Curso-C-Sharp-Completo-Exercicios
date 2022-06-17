@@ -1,0 +1,15 @@
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\QuatroValores\bin\Debug\net6.0\QuatroValores.exe
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\QuatroValores\bin\Debug\net6.0\QuatroValores.deps.json
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\QuatroValores\bin\Debug\net6.0\QuatroValores.runtimeconfig.json
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\QuatroValores\bin\Debug\net6.0\QuatroValores.dll
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\QuatroValores\bin\Debug\net6.0\QuatroValores.pdb
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\QuatroValores\obj\Debug\net6.0\QuatroValores.csproj.AssemblyReference.cache
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\QuatroValores\obj\Debug\net6.0\QuatroValores.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\QuatroValores\obj\Debug\net6.0\QuatroValores.AssemblyInfoInputs.cache
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\QuatroValores\obj\Debug\net6.0\QuatroValores.AssemblyInfo.cs
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\QuatroValores\obj\Debug\net6.0\QuatroValores.csproj.CoreCompileInputs.cache
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\QuatroValores\obj\Debug\net6.0\QuatroValores.dll
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\QuatroValores\obj\Debug\net6.0\refint\QuatroValores.dll
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\QuatroValores\obj\Debug\net6.0\QuatroValores.pdb
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\QuatroValores\obj\Debug\net6.0\QuatroValores.genruntimeconfig.cache
+D:\repos\Lista-exercicios-estrutura-sequencial\Lista-exercicios-estrutura-sequencial\QuatroValores\obj\Debug\net6.0\ref\QuatroValores.dll

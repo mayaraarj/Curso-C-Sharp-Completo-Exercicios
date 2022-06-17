@@ -1,0 +1,15 @@
+D:\repos\Lista-exercicios-estrutura-condicional\ContaLanchonete\bin\Debug\net6.0\ContaLanchonete.exe
+D:\repos\Lista-exercicios-estrutura-condicional\ContaLanchonete\bin\Debug\net6.0\ContaLanchonete.deps.json
+D:\repos\Lista-exercicios-estrutura-condicional\ContaLanchonete\bin\Debug\net6.0\ContaLanchonete.runtimeconfig.json
+D:\repos\Lista-exercicios-estrutura-condicional\ContaLanchonete\bin\Debug\net6.0\ContaLanchonete.dll
+D:\repos\Lista-exercicios-estrutura-condicional\ContaLanchonete\bin\Debug\net6.0\ContaLanchonete.pdb
+D:\repos\Lista-exercicios-estrutura-condicional\ContaLanchonete\obj\Debug\net6.0\ContaLanchonete.csproj.AssemblyReference.cache
+D:\repos\Lista-exercicios-estrutura-condicional\ContaLanchonete\obj\Debug\net6.0\ContaLanchonete.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Lista-exercicios-estrutura-condicional\ContaLanchonete\obj\Debug\net6.0\ContaLanchonete.AssemblyInfoInputs.cache
+D:\repos\Lista-exercicios-estrutura-condicional\ContaLanchonete\obj\Debug\net6.0\ContaLanchonete.AssemblyInfo.cs
+D:\repos\Lista-exercicios-estrutura-condicional\ContaLanchonete\obj\Debug\net6.0\ContaLanchonete.csproj.CoreCompileInputs.cache
+D:\repos\Lista-exercicios-estrutura-condicional\ContaLanchonete\obj\Debug\net6.0\ContaLanchonete.dll
+D:\repos\Lista-exercicios-estrutura-condicional\ContaLanchonete\obj\Debug\net6.0\refint\ContaLanchonete.dll
+D:\repos\Lista-exercicios-estrutura-condicional\ContaLanchonete\obj\Debug\net6.0\ContaLanchonete.pdb
+D:\repos\Lista-exercicios-estrutura-condicional\ContaLanchonete\obj\Debug\net6.0\ContaLanchonete.genruntimeconfig.cache
+D:\repos\Lista-exercicios-estrutura-condicional\ContaLanchonete\obj\Debug\net6.0\ref\ContaLanchonete.dll

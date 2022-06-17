@@ -1,0 +1,15 @@
+D:\repos\Lista-exercicios-estrutura-condicional\DuracaoJogo\bin\Debug\net6.0\DuracaoJogo.exe
+D:\repos\Lista-exercicios-estrutura-condicional\DuracaoJogo\bin\Debug\net6.0\DuracaoJogo.deps.json
+D:\repos\Lista-exercicios-estrutura-condicional\DuracaoJogo\bin\Debug\net6.0\DuracaoJogo.runtimeconfig.json
+D:\repos\Lista-exercicios-estrutura-condicional\DuracaoJogo\bin\Debug\net6.0\DuracaoJogo.dll
+D:\repos\Lista-exercicios-estrutura-condicional\DuracaoJogo\bin\Debug\net6.0\DuracaoJogo.pdb
+D:\repos\Lista-exercicios-estrutura-condicional\DuracaoJogo\obj\Debug\net6.0\DuracaoJogo.csproj.AssemblyReference.cache
+D:\repos\Lista-exercicios-estrutura-condicional\DuracaoJogo\obj\Debug\net6.0\DuracaoJogo.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Lista-exercicios-estrutura-condicional\DuracaoJogo\obj\Debug\net6.0\DuracaoJogo.AssemblyInfoInputs.cache
+D:\repos\Lista-exercicios-estrutura-condicional\DuracaoJogo\obj\Debug\net6.0\DuracaoJogo.AssemblyInfo.cs
+D:\repos\Lista-exercicios-estrutura-condicional\DuracaoJogo\obj\Debug\net6.0\DuracaoJogo.csproj.CoreCompileInputs.cache
+D:\repos\Lista-exercicios-estrutura-condicional\DuracaoJogo\obj\Debug\net6.0\DuracaoJogo.dll
+D:\repos\Lista-exercicios-estrutura-condicional\DuracaoJogo\obj\Debug\net6.0\refint\DuracaoJogo.dll
+D:\repos\Lista-exercicios-estrutura-condicional\DuracaoJogo\obj\Debug\net6.0\DuracaoJogo.pdb
+D:\repos\Lista-exercicios-estrutura-condicional\DuracaoJogo\obj\Debug\net6.0\DuracaoJogo.genruntimeconfig.cache
+D:\repos\Lista-exercicios-estrutura-condicional\DuracaoJogo\obj\Debug\net6.0\ref\DuracaoJogo.dll

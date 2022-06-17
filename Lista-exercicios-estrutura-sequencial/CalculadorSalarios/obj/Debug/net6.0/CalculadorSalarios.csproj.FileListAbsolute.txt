@@ -1,0 +1,15 @@
+D:\repos\Lista-exercicios-estrutura-sequencial\CalculadorSalarios\bin\Debug\net6.0\CalculadorSalarios.exe
+D:\repos\Lista-exercicios-estrutura-sequencial\CalculadorSalarios\bin\Debug\net6.0\CalculadorSalarios.deps.json
+D:\repos\Lista-exercicios-estrutura-sequencial\CalculadorSalarios\bin\Debug\net6.0\CalculadorSalarios.runtimeconfig.json
+D:\repos\Lista-exercicios-estrutura-sequencial\CalculadorSalarios\bin\Debug\net6.0\CalculadorSalarios.dll
+D:\repos\Lista-exercicios-estrutura-sequencial\CalculadorSalarios\bin\Debug\net6.0\CalculadorSalarios.pdb
+D:\repos\Lista-exercicios-estrutura-sequencial\CalculadorSalarios\obj\Debug\net6.0\CalculadorSalarios.csproj.AssemblyReference.cache
+D:\repos\Lista-exercicios-estrutura-sequencial\CalculadorSalarios\obj\Debug\net6.0\CalculadorSalarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Lista-exercicios-estrutura-sequencial\CalculadorSalarios\obj\Debug\net6.0\CalculadorSalarios.AssemblyInfoInputs.cache
+D:\repos\Lista-exercicios-estrutura-sequencial\CalculadorSalarios\obj\Debug\net6.0\CalculadorSalarios.AssemblyInfo.cs
+D:\repos\Lista-exercicios-estrutura-sequencial\CalculadorSalarios\obj\Debug\net6.0\CalculadorSalarios.csproj.CoreCompileInputs.cache
+D:\repos\Lista-exercicios-estrutura-sequencial\CalculadorSalarios\obj\Debug\net6.0\CalculadorSalarios.dll
+D:\repos\Lista-exercicios-estrutura-sequencial\CalculadorSalarios\obj\Debug\net6.0\refint\CalculadorSalarios.dll
+D:\repos\Lista-exercicios-estrutura-sequencial\CalculadorSalarios\obj\Debug\net6.0\CalculadorSalarios.pdb
+D:\repos\Lista-exercicios-estrutura-sequencial\CalculadorSalarios\obj\Debug\net6.0\CalculadorSalarios.genruntimeconfig.cache
+D:\repos\Lista-exercicios-estrutura-sequencial\CalculadorSalarios\obj\Debug\net6.0\ref\CalculadorSalarios.dll

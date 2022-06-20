@@ -1,0 +1,15 @@
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-for\MostrandoImpares\bin\Debug\net6.0\MostrandoImpares.exe
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-for\MostrandoImpares\bin\Debug\net6.0\MostrandoImpares.deps.json
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-for\MostrandoImpares\bin\Debug\net6.0\MostrandoImpares.runtimeconfig.json
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-for\MostrandoImpares\bin\Debug\net6.0\MostrandoImpares.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-for\MostrandoImpares\bin\Debug\net6.0\MostrandoImpares.pdb
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-for\MostrandoImpares\obj\Debug\net6.0\MostrandoImpares.csproj.AssemblyReference.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-for\MostrandoImpares\obj\Debug\net6.0\MostrandoImpares.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-for\MostrandoImpares\obj\Debug\net6.0\MostrandoImpares.AssemblyInfoInputs.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-for\MostrandoImpares\obj\Debug\net6.0\MostrandoImpares.AssemblyInfo.cs
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-for\MostrandoImpares\obj\Debug\net6.0\MostrandoImpares.csproj.CoreCompileInputs.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-for\MostrandoImpares\obj\Debug\net6.0\MostrandoImpares.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-for\MostrandoImpares\obj\Debug\net6.0\refint\MostrandoImpares.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-for\MostrandoImpares\obj\Debug\net6.0\MostrandoImpares.pdb
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-for\MostrandoImpares\obj\Debug\net6.0\MostrandoImpares.genruntimeconfig.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-for\MostrandoImpares\obj\Debug\net6.0\ref\MostrandoImpares.dll

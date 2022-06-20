@@ -1,0 +1,15 @@
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-for\QuantosNoIntervalo\bin\Debug\net6.0\QuantosNoIntervalo.exe
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-for\QuantosNoIntervalo\bin\Debug\net6.0\QuantosNoIntervalo.deps.json
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-for\QuantosNoIntervalo\bin\Debug\net6.0\QuantosNoIntervalo.runtimeconfig.json
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-for\QuantosNoIntervalo\bin\Debug\net6.0\QuantosNoIntervalo.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-for\QuantosNoIntervalo\bin\Debug\net6.0\QuantosNoIntervalo.pdb
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-for\QuantosNoIntervalo\obj\Debug\net6.0\QuantosNoIntervalo.csproj.AssemblyReference.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-for\QuantosNoIntervalo\obj\Debug\net6.0\QuantosNoIntervalo.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-for\QuantosNoIntervalo\obj\Debug\net6.0\QuantosNoIntervalo.AssemblyInfoInputs.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-for\QuantosNoIntervalo\obj\Debug\net6.0\QuantosNoIntervalo.AssemblyInfo.cs
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-for\QuantosNoIntervalo\obj\Debug\net6.0\QuantosNoIntervalo.csproj.CoreCompileInputs.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-for\QuantosNoIntervalo\obj\Debug\net6.0\QuantosNoIntervalo.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-for\QuantosNoIntervalo\obj\Debug\net6.0\refint\QuantosNoIntervalo.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-for\QuantosNoIntervalo\obj\Debug\net6.0\QuantosNoIntervalo.pdb
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-for\QuantosNoIntervalo\obj\Debug\net6.0\QuantosNoIntervalo.genruntimeconfig.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-estrutura-repetitiva-for\QuantosNoIntervalo\obj\Debug\net6.0\ref\QuantosNoIntervalo.dll

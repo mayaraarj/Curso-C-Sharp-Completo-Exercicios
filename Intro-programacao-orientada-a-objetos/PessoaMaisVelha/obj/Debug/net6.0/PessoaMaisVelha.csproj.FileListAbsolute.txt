@@ -1,0 +1,15 @@
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Intro-programacao-orientada-a-objetos\PessoaMaisVelha\bin\Debug\net6.0\PessoaMaisVelha.exe
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Intro-programacao-orientada-a-objetos\PessoaMaisVelha\bin\Debug\net6.0\PessoaMaisVelha.deps.json
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Intro-programacao-orientada-a-objetos\PessoaMaisVelha\bin\Debug\net6.0\PessoaMaisVelha.runtimeconfig.json
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Intro-programacao-orientada-a-objetos\PessoaMaisVelha\bin\Debug\net6.0\PessoaMaisVelha.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Intro-programacao-orientada-a-objetos\PessoaMaisVelha\bin\Debug\net6.0\PessoaMaisVelha.pdb
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Intro-programacao-orientada-a-objetos\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.csproj.AssemblyReference.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Intro-programacao-orientada-a-objetos\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Intro-programacao-orientada-a-objetos\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.AssemblyInfoInputs.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Intro-programacao-orientada-a-objetos\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.AssemblyInfo.cs
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Intro-programacao-orientada-a-objetos\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.csproj.CoreCompileInputs.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Intro-programacao-orientada-a-objetos\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Intro-programacao-orientada-a-objetos\PessoaMaisVelha\obj\Debug\net6.0\refint\PessoaMaisVelha.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Intro-programacao-orientada-a-objetos\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.pdb
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Intro-programacao-orientada-a-objetos\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.genruntimeconfig.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Intro-programacao-orientada-a-objetos\PessoaMaisVelha\obj\Debug\net6.0\ref\PessoaMaisVelha.dll

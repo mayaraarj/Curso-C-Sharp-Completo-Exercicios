@@ -1,0 +1,15 @@
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Intro-programacao-orientada-a-objetos\SalarioMedio\bin\Debug\net6.0\SalarioMedio.exe
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Intro-programacao-orientada-a-objetos\SalarioMedio\bin\Debug\net6.0\SalarioMedio.deps.json
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Intro-programacao-orientada-a-objetos\SalarioMedio\bin\Debug\net6.0\SalarioMedio.runtimeconfig.json
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Intro-programacao-orientada-a-objetos\SalarioMedio\bin\Debug\net6.0\SalarioMedio.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Intro-programacao-orientada-a-objetos\SalarioMedio\bin\Debug\net6.0\SalarioMedio.pdb
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Intro-programacao-orientada-a-objetos\SalarioMedio\obj\Debug\net6.0\SalarioMedio.csproj.AssemblyReference.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Intro-programacao-orientada-a-objetos\SalarioMedio\obj\Debug\net6.0\SalarioMedio.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Intro-programacao-orientada-a-objetos\SalarioMedio\obj\Debug\net6.0\SalarioMedio.AssemblyInfoInputs.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Intro-programacao-orientada-a-objetos\SalarioMedio\obj\Debug\net6.0\SalarioMedio.AssemblyInfo.cs
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Intro-programacao-orientada-a-objetos\SalarioMedio\obj\Debug\net6.0\SalarioMedio.csproj.CoreCompileInputs.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Intro-programacao-orientada-a-objetos\SalarioMedio\obj\Debug\net6.0\SalarioMedio.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Intro-programacao-orientada-a-objetos\SalarioMedio\obj\Debug\net6.0\refint\SalarioMedio.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Intro-programacao-orientada-a-objetos\SalarioMedio\obj\Debug\net6.0\SalarioMedio.pdb
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Intro-programacao-orientada-a-objetos\SalarioMedio\obj\Debug\net6.0\SalarioMedio.genruntimeconfig.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Intro-programacao-orientada-a-objetos\SalarioMedio\obj\Debug\net6.0\ref\SalarioMedio.dll

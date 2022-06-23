@@ -1,0 +1,15 @@
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\AreaPerimetroDiagonalTriangulo\bin\Debug\net6.0\AreaPerimetroDiagonalRetangulo.exe
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\AreaPerimetroDiagonalTriangulo\bin\Debug\net6.0\AreaPerimetroDiagonalRetangulo.deps.json
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\AreaPerimetroDiagonalTriangulo\bin\Debug\net6.0\AreaPerimetroDiagonalRetangulo.runtimeconfig.json
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\AreaPerimetroDiagonalTriangulo\bin\Debug\net6.0\AreaPerimetroDiagonalRetangulo.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\AreaPerimetroDiagonalTriangulo\bin\Debug\net6.0\AreaPerimetroDiagonalRetangulo.pdb
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\AreaPerimetroDiagonalTriangulo\obj\Debug\net6.0\AreaPerimetroDiagonalRetangulo.csproj.AssemblyReference.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\AreaPerimetroDiagonalTriangulo\obj\Debug\net6.0\AreaPerimetroDiagonalRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\AreaPerimetroDiagonalTriangulo\obj\Debug\net6.0\AreaPerimetroDiagonalRetangulo.AssemblyInfoInputs.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\AreaPerimetroDiagonalTriangulo\obj\Debug\net6.0\AreaPerimetroDiagonalRetangulo.AssemblyInfo.cs
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\AreaPerimetroDiagonalTriangulo\obj\Debug\net6.0\AreaPerimetroDiagonalRetangulo.csproj.CoreCompileInputs.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\AreaPerimetroDiagonalTriangulo\obj\Debug\net6.0\AreaPerimetroDiagonalRetangulo.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\AreaPerimetroDiagonalTriangulo\obj\Debug\net6.0\refint\AreaPerimetroDiagonalRetangulo.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\AreaPerimetroDiagonalTriangulo\obj\Debug\net6.0\AreaPerimetroDiagonalRetangulo.pdb
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\AreaPerimetroDiagonalTriangulo\obj\Debug\net6.0\AreaPerimetroDiagonalRetangulo.genruntimeconfig.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\AreaPerimetroDiagonalTriangulo\obj\Debug\net6.0\ref\AreaPerimetroDiagonalRetangulo.dll

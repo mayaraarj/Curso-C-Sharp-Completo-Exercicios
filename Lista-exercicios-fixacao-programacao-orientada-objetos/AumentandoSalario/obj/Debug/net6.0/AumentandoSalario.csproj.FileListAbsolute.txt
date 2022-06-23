@@ -1,0 +1,15 @@
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\AumentandoSalario\bin\Debug\net6.0\AumentandoSalario.exe
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\AumentandoSalario\bin\Debug\net6.0\AumentandoSalario.deps.json
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\AumentandoSalario\bin\Debug\net6.0\AumentandoSalario.runtimeconfig.json
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\AumentandoSalario\bin\Debug\net6.0\AumentandoSalario.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\AumentandoSalario\bin\Debug\net6.0\AumentandoSalario.pdb
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\AumentandoSalario\obj\Debug\net6.0\AumentandoSalario.csproj.AssemblyReference.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\AumentandoSalario\obj\Debug\net6.0\AumentandoSalario.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\AumentandoSalario\obj\Debug\net6.0\AumentandoSalario.AssemblyInfoInputs.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\AumentandoSalario\obj\Debug\net6.0\AumentandoSalario.AssemblyInfo.cs
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\AumentandoSalario\obj\Debug\net6.0\AumentandoSalario.csproj.CoreCompileInputs.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\AumentandoSalario\obj\Debug\net6.0\AumentandoSalario.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\AumentandoSalario\obj\Debug\net6.0\refint\AumentandoSalario.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\AumentandoSalario\obj\Debug\net6.0\AumentandoSalario.pdb
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\AumentandoSalario\obj\Debug\net6.0\AumentandoSalario.genruntimeconfig.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\AumentandoSalario\obj\Debug\net6.0\ref\AumentandoSalario.dll

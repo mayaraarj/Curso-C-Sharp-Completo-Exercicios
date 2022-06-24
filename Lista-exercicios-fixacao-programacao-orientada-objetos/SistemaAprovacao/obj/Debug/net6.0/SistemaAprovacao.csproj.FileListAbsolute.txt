@@ -1,0 +1,15 @@
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\SistemaAprovacao\bin\Debug\net6.0\SistemaAprovacao.exe
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\SistemaAprovacao\bin\Debug\net6.0\SistemaAprovacao.deps.json
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\SistemaAprovacao\bin\Debug\net6.0\SistemaAprovacao.runtimeconfig.json
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\SistemaAprovacao\bin\Debug\net6.0\SistemaAprovacao.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\SistemaAprovacao\bin\Debug\net6.0\SistemaAprovacao.pdb
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\SistemaAprovacao\obj\Debug\net6.0\SistemaAprovacao.csproj.AssemblyReference.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\SistemaAprovacao\obj\Debug\net6.0\SistemaAprovacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\SistemaAprovacao\obj\Debug\net6.0\SistemaAprovacao.AssemblyInfoInputs.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\SistemaAprovacao\obj\Debug\net6.0\SistemaAprovacao.AssemblyInfo.cs
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\SistemaAprovacao\obj\Debug\net6.0\SistemaAprovacao.csproj.CoreCompileInputs.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\SistemaAprovacao\obj\Debug\net6.0\SistemaAprovacao.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\SistemaAprovacao\obj\Debug\net6.0\refint\SistemaAprovacao.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\SistemaAprovacao\obj\Debug\net6.0\SistemaAprovacao.pdb
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\SistemaAprovacao\obj\Debug\net6.0\SistemaAprovacao.genruntimeconfig.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\SistemaAprovacao\obj\Debug\net6.0\ref\SistemaAprovacao.dll

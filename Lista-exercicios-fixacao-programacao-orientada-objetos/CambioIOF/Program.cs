@@ -11,11 +11,14 @@ namespace CambioIOF
         //para ser responsável pelos cálculos.
         static void Main(string[] args)
         {
-            Console.Write("Qual é a cotação do dólar?");
+            Console.Write("Qual é a cotação do dólar? ");
             double cotacaoDolar = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
-            Console.Write("Quantos dólares você vai comprar?");
+            Console.Write("Quantos dólares você vai comprar? ");
             double dolaresComprados = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
-            Console.WriteLine("Valor a ser pago em reais: ");
+
+            double total = ConversorMoeda.DolarParaReal(dolaresComprados, cotacaoDolar);
+
+            Console.WriteLine("Valor a ser pago em reais: " + total.ToString("F2", CultureInfo.InvariantCulture));
         
         }
     }

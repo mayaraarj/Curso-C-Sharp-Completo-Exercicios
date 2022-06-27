@@ -1,0 +1,15 @@
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\CambioIOF\bin\Debug\net6.0\CambioIOF.exe
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\CambioIOF\bin\Debug\net6.0\CambioIOF.deps.json
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\CambioIOF\bin\Debug\net6.0\CambioIOF.runtimeconfig.json
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\CambioIOF\bin\Debug\net6.0\CambioIOF.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\CambioIOF\bin\Debug\net6.0\CambioIOF.pdb
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\CambioIOF\obj\Debug\net6.0\CambioIOF.csproj.AssemblyReference.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\CambioIOF\obj\Debug\net6.0\CambioIOF.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\CambioIOF\obj\Debug\net6.0\CambioIOF.AssemblyInfoInputs.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\CambioIOF\obj\Debug\net6.0\CambioIOF.AssemblyInfo.cs
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\CambioIOF\obj\Debug\net6.0\CambioIOF.csproj.CoreCompileInputs.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\CambioIOF\obj\Debug\net6.0\CambioIOF.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\CambioIOF\obj\Debug\net6.0\refint\CambioIOF.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\CambioIOF\obj\Debug\net6.0\CambioIOF.pdb
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\CambioIOF\obj\Debug\net6.0\CambioIOF.genruntimeconfig.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Lista-exercicios-fixacao-programacao-orientada-objetos\CambioIOF\obj\Debug\net6.0\ref\CambioIOF.dll

@@ -17,7 +17,7 @@ class ContaBancaria
         Saldo = saldo;
     }
 
-    public ContaBancaria(int numero, string titular)
+    public ContaBancaria(int numero, string titular) 
     {
         Numero = numero;
         Titular = titular;

@@ -5,6 +5,11 @@ VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContaDoBanco", "ContaDoBanco.csproj", "{65A8A47C-D083-41FA-8A3A-1238C0A6BB23}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{B19A47F6-9647-4E6F-A669-972E2A6711C4}"
+	ProjectSection(SolutionItems) = preProject
+		ContaBancaria.cs = ContaBancaria.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

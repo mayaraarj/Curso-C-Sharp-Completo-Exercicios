@@ -1,23 +1,23 @@
 ﻿using System;
+using System.Globalization;
 
 class ContaBancaria
 {
-    public int Numero
-    { get; set; }
-    string Titular
-    { get; set; }
+    public double Saldo { get; private set; }
 
-    double Saldo;
+    public int Numero { get; private set; }
+
+    public string Titular { get; private set; }
 
 
-    public ContaBancaria(int numero, string titular, double saldo)
+    public ContaBancaria(int numero, string titular, double depositoInical)
     {
         Numero = numero;
         Titular = titular;
-        Saldo = saldo;
+        Saldo = depositoInical;
     }
 
-    public ContaBancaria(int numero, string titular) 
+    public ContaBancaria(int numero, string titular)
     {
         Numero = numero;
         Titular = titular;
@@ -32,6 +32,18 @@ class ContaBancaria
     public void Saque(double quantia)
     {
         Saldo = Saldo - quantia - 5.00;
+    }
+
+    public override string ToString()
+    {
+        return
+            "Conta " +
+            Numero +
+            " "+
+            ", Titular: "+
+            Titular +
+            ", Saldo R$ " +
+            Saldo.ToString("F2", CultureInfo.InvariantCulture);
     }
 
 }

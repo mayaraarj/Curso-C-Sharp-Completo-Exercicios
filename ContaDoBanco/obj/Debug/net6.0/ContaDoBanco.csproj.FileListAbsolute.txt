@@ -1,0 +1,15 @@
+D:\repos\Curso-C-Sharp-Completo-Exercicios\ContaDoBanco\bin\Debug\net6.0\ContaDoBanco.exe
+D:\repos\Curso-C-Sharp-Completo-Exercicios\ContaDoBanco\bin\Debug\net6.0\ContaDoBanco.deps.json
+D:\repos\Curso-C-Sharp-Completo-Exercicios\ContaDoBanco\bin\Debug\net6.0\ContaDoBanco.runtimeconfig.json
+D:\repos\Curso-C-Sharp-Completo-Exercicios\ContaDoBanco\bin\Debug\net6.0\ContaDoBanco.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\ContaDoBanco\bin\Debug\net6.0\ContaDoBanco.pdb
+D:\repos\Curso-C-Sharp-Completo-Exercicios\ContaDoBanco\obj\Debug\net6.0\ContaDoBanco.csproj.AssemblyReference.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\ContaDoBanco\obj\Debug\net6.0\ContaDoBanco.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Curso-C-Sharp-Completo-Exercicios\ContaDoBanco\obj\Debug\net6.0\ContaDoBanco.AssemblyInfoInputs.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\ContaDoBanco\obj\Debug\net6.0\ContaDoBanco.AssemblyInfo.cs
+D:\repos\Curso-C-Sharp-Completo-Exercicios\ContaDoBanco\obj\Debug\net6.0\ContaDoBanco.csproj.CoreCompileInputs.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\ContaDoBanco\obj\Debug\net6.0\ContaDoBanco.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\ContaDoBanco\obj\Debug\net6.0\refint\ContaDoBanco.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\ContaDoBanco\obj\Debug\net6.0\ContaDoBanco.pdb
+D:\repos\Curso-C-Sharp-Completo-Exercicios\ContaDoBanco\obj\Debug\net6.0\ContaDoBanco.genruntimeconfig.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\ContaDoBanco\obj\Debug\net6.0\ref\ContaDoBanco.dll

@@ -16,7 +16,7 @@ namespace ContaDoBanco
             Console.Write("Haverá depósito inicial? s/n ");
             char deposito = char.Parse(Console.ReadLine());
 
-            if (deposito == 's')
+            if (deposito == 's' || deposito == 'S') // Acrescentei a possibilidade de se entrar com o S maiúsculo
             {
                 Console.Write("Entre o valor do deposito inicial: ");
                 double depositoInicial = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);

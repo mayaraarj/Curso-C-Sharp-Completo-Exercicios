@@ -7,14 +7,16 @@ class ContaBancaria
 
     public int Numero { get; private set; }
 
-    public string Titular { get; private set; }
+    public string Titular { get; set; } // Alterei na correção retirando o private do set porque a pessoa poderá mudar o nome
 
 
-    public ContaBancaria(int numero, string titular, double depositoInical)
+    public ContaBancaria(int numero, string titular, double depositoInical) : this(numero, titular) // Testei o this na correção para reaproveitamento do reconstrutor anterior
     {
-        Numero = numero;
-        Titular = titular;
-        Saldo = depositoInical;
+        //Numero = numero;
+        //Titular = titular;
+        //Saldo = depositoInical;
+
+        Deposito(depositoInical); // Alterei a atriuição por chamada do método para facilitar manutenção posterior do código
     }
 
     public ContaBancaria(int numero, string titular)
@@ -39,10 +41,10 @@ class ContaBancaria
         return
             "Conta " +
             Numero +
-            " "+
-            ", Titular: "+
+            " " +
+            ", Titular: " +
             Titular +
-            ", Saldo R$ " +
+            ", Saldo: R$ " +
             Saldo.ToString("F2", CultureInfo.InvariantCulture);
     }
 

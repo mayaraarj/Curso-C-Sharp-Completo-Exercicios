@@ -1,0 +1,15 @@
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Pensionato\bin\Debug\net6.0\Pensionato.exe
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Pensionato\bin\Debug\net6.0\Pensionato.deps.json
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Pensionato\bin\Debug\net6.0\Pensionato.runtimeconfig.json
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Pensionato\bin\Debug\net6.0\Pensionato.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Pensionato\bin\Debug\net6.0\Pensionato.pdb
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Pensionato\obj\Debug\net6.0\Pensionato.csproj.AssemblyReference.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Pensionato\obj\Debug\net6.0\Pensionato.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Pensionato\obj\Debug\net6.0\Pensionato.AssemblyInfoInputs.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Pensionato\obj\Debug\net6.0\Pensionato.AssemblyInfo.cs
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Pensionato\obj\Debug\net6.0\Pensionato.csproj.CoreCompileInputs.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Pensionato\obj\Debug\net6.0\Pensionato.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Pensionato\obj\Debug\net6.0\refint\Pensionato.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Pensionato\obj\Debug\net6.0\Pensionato.pdb
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Pensionato\obj\Debug\net6.0\Pensionato.genruntimeconfig.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Pensionato\obj\Debug\net6.0\ref\Pensionato.dll

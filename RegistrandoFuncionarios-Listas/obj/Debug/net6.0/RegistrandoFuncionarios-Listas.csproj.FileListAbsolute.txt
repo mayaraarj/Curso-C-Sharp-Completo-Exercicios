@@ -1,0 +1,15 @@
+D:\repos\Curso-C-Sharp-Completo-Exercicios\RegistrandoFuncionarios-Listas\bin\Debug\net6.0\RegistrandoFuncionarios-Listas.exe
+D:\repos\Curso-C-Sharp-Completo-Exercicios\RegistrandoFuncionarios-Listas\bin\Debug\net6.0\RegistrandoFuncionarios-Listas.deps.json
+D:\repos\Curso-C-Sharp-Completo-Exercicios\RegistrandoFuncionarios-Listas\bin\Debug\net6.0\RegistrandoFuncionarios-Listas.runtimeconfig.json
+D:\repos\Curso-C-Sharp-Completo-Exercicios\RegistrandoFuncionarios-Listas\bin\Debug\net6.0\RegistrandoFuncionarios-Listas.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\RegistrandoFuncionarios-Listas\bin\Debug\net6.0\RegistrandoFuncionarios-Listas.pdb
+D:\repos\Curso-C-Sharp-Completo-Exercicios\RegistrandoFuncionarios-Listas\obj\Debug\net6.0\RegistrandoFuncionarios-Listas.csproj.AssemblyReference.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\RegistrandoFuncionarios-Listas\obj\Debug\net6.0\RegistrandoFuncionarios-Listas.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Curso-C-Sharp-Completo-Exercicios\RegistrandoFuncionarios-Listas\obj\Debug\net6.0\RegistrandoFuncionarios-Listas.AssemblyInfoInputs.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\RegistrandoFuncionarios-Listas\obj\Debug\net6.0\RegistrandoFuncionarios-Listas.AssemblyInfo.cs
+D:\repos\Curso-C-Sharp-Completo-Exercicios\RegistrandoFuncionarios-Listas\obj\Debug\net6.0\RegistrandoFuncionarios-Listas.csproj.CoreCompileInputs.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\RegistrandoFuncionarios-Listas\obj\Debug\net6.0\RegistrandoFuncionarios-Listas.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\RegistrandoFuncionarios-Listas\obj\Debug\net6.0\refint\RegistrandoFuncionarios-Listas.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\RegistrandoFuncionarios-Listas\obj\Debug\net6.0\RegistrandoFuncionarios-Listas.pdb
+D:\repos\Curso-C-Sharp-Completo-Exercicios\RegistrandoFuncionarios-Listas\obj\Debug\net6.0\RegistrandoFuncionarios-Listas.genruntimeconfig.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\RegistrandoFuncionarios-Listas\obj\Debug\net6.0\ref\RegistrandoFuncionarios-Listas.dll

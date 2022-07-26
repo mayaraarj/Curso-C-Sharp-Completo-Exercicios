@@ -13,11 +13,11 @@ namespace RegistrandoFuncionarios_Listas
             Id = id;
             Name = name;
             Salary = salary;
-        }   
+        }
 
         public void increaseSalary(double percentage)
         {
-            Salary += percentage/100 * Salary;
+            Salary += Salary * percentage/100.0;
         }
 
         public override string ToString()

@@ -1,0 +1,15 @@
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Exercicio-Matriz\bin\Debug\net6.0\Exercicio-Matriz.exe
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Exercicio-Matriz\bin\Debug\net6.0\Exercicio-Matriz.deps.json
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Exercicio-Matriz\bin\Debug\net6.0\Exercicio-Matriz.runtimeconfig.json
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Exercicio-Matriz\bin\Debug\net6.0\Exercicio-Matriz.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Exercicio-Matriz\bin\Debug\net6.0\Exercicio-Matriz.pdb
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Exercicio-Matriz\obj\Debug\net6.0\Exercicio-Matriz.csproj.AssemblyReference.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Exercicio-Matriz\obj\Debug\net6.0\Exercicio-Matriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Exercicio-Matriz\obj\Debug\net6.0\Exercicio-Matriz.AssemblyInfoInputs.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Exercicio-Matriz\obj\Debug\net6.0\Exercicio-Matriz.AssemblyInfo.cs
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Exercicio-Matriz\obj\Debug\net6.0\Exercicio-Matriz.csproj.CoreCompileInputs.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Exercicio-Matriz\obj\Debug\net6.0\Exercicio-Matriz.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Exercicio-Matriz\obj\Debug\net6.0\refint\Exercicio-Matriz.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Exercicio-Matriz\obj\Debug\net6.0\Exercicio-Matriz.pdb
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Exercicio-Matriz\obj\Debug\net6.0\Exercicio-Matriz.genruntimeconfig.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\Exercicio-Matriz\obj\Debug\net6.0\ref\Exercicio-Matriz.dll

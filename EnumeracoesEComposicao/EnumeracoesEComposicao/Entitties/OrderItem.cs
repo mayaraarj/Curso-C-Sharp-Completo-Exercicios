@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Globalization;
 
 namespace EnumeracoesEComposicao.Entitties
 {
@@ -29,6 +30,24 @@ namespace EnumeracoesEComposicao.Entitties
             return Quantity * Price;
         }
 
+     /*   public override string ToString()
+        {
+            return Product.Name
+                + ", $"
+                + Price.ToString("F2", CultureInfo.InvariantCulture)
+                + ", Quantity: "
+                + Quantity
+                + ", Subtotal: $"
+                + SubTotal().ToString("F2", CultureInfo.InvariantCulture);
+        }
+     */
+
+        public override string ToString()
+        {
+         StringBuilder sb = new StringBuilder();
+          sb.AppendLine(Product.ToString() + ", $" + Price.ToString("f2", CultureInfo.InvariantCulture) + ", quantity: " + Quantity + ", subtotal: $" + SubTotal().ToString("F2", CultureInfo.InvariantCulture));
+          return sb.ToString();
+        }
 
     }
 }

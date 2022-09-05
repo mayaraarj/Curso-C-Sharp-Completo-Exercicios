@@ -20,6 +20,12 @@ namespace EnumeracoesEComposicao.Entitties
         {
             Name = name;
             Price = price;
-        }   
+        }
+
+        public override string ToString()
+        {
+            return Name;
+        }
+
     }
 }

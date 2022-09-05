@@ -23,5 +23,11 @@ namespace EnumeracoesEComposicao.Entitties
             Email = email;
             BirthDate = birthDate;
         }
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine(Name +" "+ BirthDate.ToString("dd/MM/yyyy")+" "+Email);
+            return sb.ToString();
+        }
     }
 }

@@ -1,0 +1,15 @@
+C:\repos\Curso-C-Sharp-Completo-Exercicios\Curso-C-Sharp-Completo-Exercicios\HerancaEPolimorfismo\bin\Debug\net6.0\HerancaEPolimorfismo.exe
+C:\repos\Curso-C-Sharp-Completo-Exercicios\Curso-C-Sharp-Completo-Exercicios\HerancaEPolimorfismo\bin\Debug\net6.0\HerancaEPolimorfismo.deps.json
+C:\repos\Curso-C-Sharp-Completo-Exercicios\Curso-C-Sharp-Completo-Exercicios\HerancaEPolimorfismo\bin\Debug\net6.0\HerancaEPolimorfismo.runtimeconfig.json
+C:\repos\Curso-C-Sharp-Completo-Exercicios\Curso-C-Sharp-Completo-Exercicios\HerancaEPolimorfismo\bin\Debug\net6.0\HerancaEPolimorfismo.dll
+C:\repos\Curso-C-Sharp-Completo-Exercicios\Curso-C-Sharp-Completo-Exercicios\HerancaEPolimorfismo\bin\Debug\net6.0\HerancaEPolimorfismo.pdb
+C:\repos\Curso-C-Sharp-Completo-Exercicios\Curso-C-Sharp-Completo-Exercicios\HerancaEPolimorfismo\obj\Debug\net6.0\HerancaEPolimorfismo.csproj.AssemblyReference.cache
+C:\repos\Curso-C-Sharp-Completo-Exercicios\Curso-C-Sharp-Completo-Exercicios\HerancaEPolimorfismo\obj\Debug\net6.0\HerancaEPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Curso-C-Sharp-Completo-Exercicios\Curso-C-Sharp-Completo-Exercicios\HerancaEPolimorfismo\obj\Debug\net6.0\HerancaEPolimorfismo.AssemblyInfoInputs.cache
+C:\repos\Curso-C-Sharp-Completo-Exercicios\Curso-C-Sharp-Completo-Exercicios\HerancaEPolimorfismo\obj\Debug\net6.0\HerancaEPolimorfismo.AssemblyInfo.cs
+C:\repos\Curso-C-Sharp-Completo-Exercicios\Curso-C-Sharp-Completo-Exercicios\HerancaEPolimorfismo\obj\Debug\net6.0\HerancaEPolimorfismo.csproj.CoreCompileInputs.cache
+C:\repos\Curso-C-Sharp-Completo-Exercicios\Curso-C-Sharp-Completo-Exercicios\HerancaEPolimorfismo\obj\Debug\net6.0\HerancaEPolimorfismo.dll
+C:\repos\Curso-C-Sharp-Completo-Exercicios\Curso-C-Sharp-Completo-Exercicios\HerancaEPolimorfismo\obj\Debug\net6.0\refint\HerancaEPolimorfismo.dll
+C:\repos\Curso-C-Sharp-Completo-Exercicios\Curso-C-Sharp-Completo-Exercicios\HerancaEPolimorfismo\obj\Debug\net6.0\HerancaEPolimorfismo.pdb
+C:\repos\Curso-C-Sharp-Completo-Exercicios\Curso-C-Sharp-Completo-Exercicios\HerancaEPolimorfismo\obj\Debug\net6.0\HerancaEPolimorfismo.genruntimeconfig.cache
+C:\repos\Curso-C-Sharp-Completo-Exercicios\Curso-C-Sharp-Completo-Exercicios\HerancaEPolimorfismo\obj\Debug\net6.0\ref\HerancaEPolimorfismo.dll

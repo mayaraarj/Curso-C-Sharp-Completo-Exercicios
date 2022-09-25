@@ -1,0 +1,15 @@
+C:\repos\Curso-C-Sharp-Completo-Exercicios\Curso-C-Sharp-Completo-Exercicios\EnumeracoesEComposicao\EnumeracoesEComposicao\bin\Debug\net6.0\EnumeracoesEComposicao.exe
+C:\repos\Curso-C-Sharp-Completo-Exercicios\Curso-C-Sharp-Completo-Exercicios\EnumeracoesEComposicao\EnumeracoesEComposicao\bin\Debug\net6.0\EnumeracoesEComposicao.deps.json
+C:\repos\Curso-C-Sharp-Completo-Exercicios\Curso-C-Sharp-Completo-Exercicios\EnumeracoesEComposicao\EnumeracoesEComposicao\bin\Debug\net6.0\EnumeracoesEComposicao.runtimeconfig.json
+C:\repos\Curso-C-Sharp-Completo-Exercicios\Curso-C-Sharp-Completo-Exercicios\EnumeracoesEComposicao\EnumeracoesEComposicao\bin\Debug\net6.0\EnumeracoesEComposicao.dll
+C:\repos\Curso-C-Sharp-Completo-Exercicios\Curso-C-Sharp-Completo-Exercicios\EnumeracoesEComposicao\EnumeracoesEComposicao\bin\Debug\net6.0\EnumeracoesEComposicao.pdb
+C:\repos\Curso-C-Sharp-Completo-Exercicios\Curso-C-Sharp-Completo-Exercicios\EnumeracoesEComposicao\EnumeracoesEComposicao\obj\Debug\net6.0\EnumeracoesEComposicao.csproj.AssemblyReference.cache
+C:\repos\Curso-C-Sharp-Completo-Exercicios\Curso-C-Sharp-Completo-Exercicios\EnumeracoesEComposicao\EnumeracoesEComposicao\obj\Debug\net6.0\EnumeracoesEComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Curso-C-Sharp-Completo-Exercicios\Curso-C-Sharp-Completo-Exercicios\EnumeracoesEComposicao\EnumeracoesEComposicao\obj\Debug\net6.0\EnumeracoesEComposicao.AssemblyInfoInputs.cache
+C:\repos\Curso-C-Sharp-Completo-Exercicios\Curso-C-Sharp-Completo-Exercicios\EnumeracoesEComposicao\EnumeracoesEComposicao\obj\Debug\net6.0\EnumeracoesEComposicao.AssemblyInfo.cs
+C:\repos\Curso-C-Sharp-Completo-Exercicios\Curso-C-Sharp-Completo-Exercicios\EnumeracoesEComposicao\EnumeracoesEComposicao\obj\Debug\net6.0\EnumeracoesEComposicao.csproj.CoreCompileInputs.cache
+C:\repos\Curso-C-Sharp-Completo-Exercicios\Curso-C-Sharp-Completo-Exercicios\EnumeracoesEComposicao\EnumeracoesEComposicao\obj\Debug\net6.0\EnumeracoesEComposicao.dll
+C:\repos\Curso-C-Sharp-Completo-Exercicios\Curso-C-Sharp-Completo-Exercicios\EnumeracoesEComposicao\EnumeracoesEComposicao\obj\Debug\net6.0\refint\EnumeracoesEComposicao.dll
+C:\repos\Curso-C-Sharp-Completo-Exercicios\Curso-C-Sharp-Completo-Exercicios\EnumeracoesEComposicao\EnumeracoesEComposicao\obj\Debug\net6.0\EnumeracoesEComposicao.pdb
+C:\repos\Curso-C-Sharp-Completo-Exercicios\Curso-C-Sharp-Completo-Exercicios\EnumeracoesEComposicao\EnumeracoesEComposicao\obj\Debug\net6.0\EnumeracoesEComposicao.genruntimeconfig.cache
+C:\repos\Curso-C-Sharp-Completo-Exercicios\Curso-C-Sharp-Completo-Exercicios\EnumeracoesEComposicao\EnumeracoesEComposicao\obj\Debug\net6.0\ref\EnumeracoesEComposicao.dll

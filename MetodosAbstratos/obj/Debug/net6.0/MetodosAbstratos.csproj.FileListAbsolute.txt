@@ -1,0 +1,15 @@
+D:\repos\Curso-C-Sharp-Completo-Exercicios\MetodosAbstratos\bin\Debug\net6.0\MetodosAbstratos.exe
+D:\repos\Curso-C-Sharp-Completo-Exercicios\MetodosAbstratos\bin\Debug\net6.0\MetodosAbstratos.deps.json
+D:\repos\Curso-C-Sharp-Completo-Exercicios\MetodosAbstratos\bin\Debug\net6.0\MetodosAbstratos.runtimeconfig.json
+D:\repos\Curso-C-Sharp-Completo-Exercicios\MetodosAbstratos\bin\Debug\net6.0\MetodosAbstratos.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\MetodosAbstratos\bin\Debug\net6.0\MetodosAbstratos.pdb
+D:\repos\Curso-C-Sharp-Completo-Exercicios\MetodosAbstratos\obj\Debug\net6.0\MetodosAbstratos.csproj.AssemblyReference.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\MetodosAbstratos\obj\Debug\net6.0\MetodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Curso-C-Sharp-Completo-Exercicios\MetodosAbstratos\obj\Debug\net6.0\MetodosAbstratos.AssemblyInfoInputs.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\MetodosAbstratos\obj\Debug\net6.0\MetodosAbstratos.AssemblyInfo.cs
+D:\repos\Curso-C-Sharp-Completo-Exercicios\MetodosAbstratos\obj\Debug\net6.0\MetodosAbstratos.csproj.CoreCompileInputs.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\MetodosAbstratos\obj\Debug\net6.0\MetodosAbstratos.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\MetodosAbstratos\obj\Debug\net6.0\refint\MetodosAbstratos.dll
+D:\repos\Curso-C-Sharp-Completo-Exercicios\MetodosAbstratos\obj\Debug\net6.0\MetodosAbstratos.pdb
+D:\repos\Curso-C-Sharp-Completo-Exercicios\MetodosAbstratos\obj\Debug\net6.0\MetodosAbstratos.genruntimeconfig.cache
+D:\repos\Curso-C-Sharp-Completo-Exercicios\MetodosAbstratos\obj\Debug\net6.0\ref\MetodosAbstratos.dll

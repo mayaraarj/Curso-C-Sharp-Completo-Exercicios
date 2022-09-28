@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TratamentoDeExcecoes.Entities.Exceptions;
 
 namespace TratamentoDeExcecoes.Entities
 {
@@ -29,10 +30,18 @@ namespace TratamentoDeExcecoes.Entities
 
         public void Withdraw(double amount)
         {
-            Balance -= amount;
+            if (amount > WithdrawLimit)
+            {
+                throw new DomainException("The amount exceeds withdraw limit");
+            }
+            else if (amount < WithdrawLimit && amount > Balance)
+            {
+                throw new DomainException("Not enough balance");
+            }
+            else
+            {
+                Balance -= amount;
+            }
         }
     }
-
-
-
 }

@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ExercicioFixacaoInterfaces.Entities
+﻿namespace ExercicioFixacaoInterfaces.Entities
 {
     internal class Contract
     {
@@ -13,17 +7,13 @@ namespace ExercicioFixacaoInterfaces.Entities
 
         public Installment Installment { get; set; }
 
+        public double TotalValue { get; set; }
+
         public Contract(int number, DateTime date, Installment installment)
         {
             Number = number;
             Date = date;
             Installment = installment;
         }
-
-        //public double TotalValue()
-        //{
-        //    return
-        //}
-
     }
 }

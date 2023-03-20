@@ -1,4 +1,6 @@
-﻿namespace ExercicioFixacaoInterfaces.Entities
+﻿using System.Globalization;
+
+namespace ExercicioFixacaoInterfaces.Entities
 {
     internal class Installment
     {
@@ -9,6 +11,11 @@
         {
             DueDate = dueDate;
             Amount = amount;
+        }
+
+        public override string ToString()
+        {
+            return DueDate.ToString("dd/MM/yyyy") + " - " + Amount.ToString("F2", CultureInfo.InvariantCulture);
         }
     }
 }
